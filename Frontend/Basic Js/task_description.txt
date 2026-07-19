@@ -1,0 +1,140 @@
+Responsive Login Form - Required Topics
+
+Design File -> https://www.figma.com/design/kTuXaMeMYvPLgiucqLUmSC/Login-View--Community-?node-id=0-1&p=f&t=VIO8jec5ZDutBWDD-0
+
+
+Rules ->
+1. Validations need to be handled using proper validations and error messages
+2. Responsive is must
+3. If possible can use Tailwind Css instead of normal Css
+4. Modular Code should be written
+
+========================================
+HTML
+========================================
+
+1. HTML Boilerplate
+2. Semantic Elements
+   - form
+   - label
+   - button
+
+3. Input Types
+   - text
+   - email
+   - password
+   - checkbox
+
+4. Buttons
+5. Anchor Tag (a)
+6. Divs for Layout (div)
+7. Images (img)
+
+========================================
+CSS
+========================================
+
+1. CSS Selectors
+2. Box Model
+   - margin
+   - padding
+   - border
+   - box-sizing
+
+3. Width & Height
+   - width
+   - height
+   - min-height
+   - max-width
+   - 100vh
+
+4. Typography
+   - font-family
+   - font-size
+   - font-weight
+   - line-height
+   - color
+
+5. Backgrounds
+   - background-color
+   - background-image (if required)
+
+6. Borders
+   - border
+   - border-radius
+
+7. Display Property
+   - block
+   - inline
+   - inline-block
+
+8. Flexbox
+   - display: flex
+   - flex-direction
+   - justify-content
+   - align-items
+   - gap
+
+9. CSS Grid
+   - display: grid
+   - grid-template-columns
+   - gap
+
+10. Spacing
+    - margin
+    - padding
+    - gap
+
+11. Responsive Design
+    - Media Queries
+    - Relative Units
+      - %
+      - rem
+      - vw
+      - vh
+
+12. Hover Effects
+    - :hover
+    - cursor
+
+13. Box Shadow (Optional)
+
+========================================
+JavaScript (Basic)
+========================================
+
+1. Variables
+   - const
+   - let
+
+2. DOM Selection
+   - document.getElementById()
+   - document.querySelector()
+
+3. Events
+   - submit
+   - click
+
+4. Prevent Default Form Submission
+   - event.preventDefault()
+
+5. Reading Input Values
+   - .value
+
+6. Conditional Statements
+   - if
+   - else
+
+7. Comparison Operators
+   - ===
+   - &&
+
+8. Alert / Display Message
+   - alert()
+   - textContent
+   - innerText
+
+9. Functions
+   - function
+   - arrow functions (optional)
+
